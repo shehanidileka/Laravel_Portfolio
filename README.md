@@ -6,7 +6,7 @@ This project demonstrates the **Blade Master Layout strategy**: one shared layou
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Master Layout Architecture:** Utilizes `@extends`, `@section`, `@yield`, and `@include`.
 * **Dynamic Page Titles:** Powered via `@yield('title')`.
@@ -20,7 +20,7 @@ This project demonstrates the **Blade Master Layout strategy**: one shared layou
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 | :--- | :--- |
@@ -33,7 +33,7 @@ This project demonstrates the **Blade Master Layout strategy**: one shared layou
 
 ---
 
-## 📄 Pages and Routes
+##  Pages and Routes
 
 | Page | URL | Route Name |
 | :--- | :--- | :--- |
